@@ -161,17 +161,16 @@
             android:orientation="horizontal">
 
 
+            <Button
+                android:layout_width="126dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="50dp"
+                android:backgroundTint="#08D516"
+                android:text="Edit">
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="50dp"
-            android:text="Edit"
-            android:backgroundTint="#08D516">
+            </Button>
 
-        </Button>
-
-        <Button
+            <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="120dp"
